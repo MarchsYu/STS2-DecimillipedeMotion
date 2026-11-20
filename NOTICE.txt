@@ -1,0 +1,8 @@
+DecimillipedeMotion 0.4.8
+
+原版娘化皮肤和原立绘由 Kiteseven（kiteseven77）制作。
+https://github.com/kiteseven/decimillipede-feminization
+
+本补丁内嵌的动画图集基于上游立绘制作，包含图层拆分、部位补绘、
+颜色过渡和遮挡修整。上游作品的 Apache-2.0 文本附在
+LICENSE-Upstream-Apache-2.0.txt 中。
